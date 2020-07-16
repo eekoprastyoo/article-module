@@ -1,26 +1,11 @@
 {
-    "name": "nwidart/modula",
-    "type":"laravel-module",
-    "description": "",
+    "name": "ecos/article-module",
+    "type": "laravel-module",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "eekoprastyoo",
+            "email": "eekoprastyoo@gmail.com"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Modules\\ModulA\\Providers\\ModulAServiceProvider"
-            ],
-            "aliases": {
-
-            }
-        }
-    },
-    "autoload": {
-        "psr-4": {
-            "Modules\\ModulA\\": ""
-        }
-    }
+    "require": {}
 }
