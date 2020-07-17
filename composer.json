@@ -7,5 +7,7 @@
             "email": "eekoprastyoo@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "joshbrw/laravel-module-installer": "^0.1.4"
+    }
 }
